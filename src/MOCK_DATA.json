@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "category": "Vegetable",
+    "name": "Lettuce - Romaine, Heart",
+    "price": "1.99",
+    "manufacturer": "Fay, Larson and Raynor",
+    "production_date": "07/04/2021"
+  },
+  {
+    "id": 2,
+    "category": "Fruit",
+    "name": "Chocolate - White",
+    "price": "2.60",
+    "manufacturer": "Hermann, Schroeder and Becker",
+    "production_date": "18/05/2021"
+  },
+  {
+    "id": 3,
+    "category": "Protein",
+    "name": "Juice - Lemon",
+    "price": "4.40",
+    "manufacturer": "Littel Group",
+    "production_date": "07/03/2021"
+  },
+  {
+    "id": 4,
+    "category": "Fruit",
+    "name": "Wine - Duboeuf Beaujolais",
+    "price": "2.02",
+    "manufacturer": "Boyle-Moen",
+    "production_date": "10/08/2021"
+  },
+  {
+    "id": 5,
+    "category": "Fruit",
+    "name": "Sugar - Icing",
+    "price": "1.86",
+    "manufacturer": "Hermiston LLC",
+    "production_date": "21/11/2021"
+  },
+  {
+    "id": 6,
+    "category": "Vegetable",
+    "name": "Scallops - 10/20",
+    "price": "2.60",
+    "manufacturer": "Boehm-Frami",
+    "production_date": "26/01/2022"
+  },
+  {
+    "id": 7,
+    "category": "Protein",
+    "name": "Veal - Heart",
+    "price": "2.76",
+    "manufacturer": "Gutmann, West and Lehner",
+    "production_date": "09/11/2021"
+  },
+  {
+    "id": 8,
+    "category": "Fruit",
+    "name": "Bread Base - Goodhearth",
+    "price": "2.89",
+    "manufacturer": "Schmitt and Sons",
+    "production_date": "29/05/2021"
+  },
+  {
+    "id": 9,
+    "category": "Protein",
+    "name": "Tomatoes - Cherry, Yellow",
+    "price": "2.74",
+    "manufacturer": "Marks, Stracke and Goldner",
+    "production_date": "29/06/2021"
+  },
+  {
+    "id": 10,
+    "category": "Protein",
+    "name": "Appetizer - Cheese Bites",
+    "price": "3.31",
+    "manufacturer": "Thompson-Graham",
+    "production_date": "24/01/2022"
+  },
+  {
+    "id": 11,
+    "category": "Vegetable",
+    "name": "V8 Pet",
+    "price": "2.73",
+    "manufacturer": "Roberts-Kessler",
+    "production_date": "01/02/2021"
+  },
+  {
+    "id": 12,
+    "category": "Fruit",
+    "name": "Myers Planters Punch",
+    "price": "4.76",
+    "manufacturer": "Littel and Sons",
+    "production_date": "14/11/2021"
+  },
+  {
+    "id": 13,
+    "category": "Protein",
+    "name": "Vermacelli - Sprinkles, Assorted",
+    "price": "2.01",
+    "manufacturer": "Rowe, Kreiger and Fay",
+    "production_date": "12/09/2021"
+  },
+  {
+    "id": 14,
+    "category": "Fruit",
+    "name": "Flax Seed",
+    "price": "4.24",
+    "manufacturer": "Fisher Inc",
+    "production_date": "21/12/2021"
+  },
+  {
+    "id": 15,
+    "category": "Fruit",
+    "name": "Trout - Hot Smkd, Dbl Fillet",
+    "price": "3.27",
+    "manufacturer": "Douglas-Bruen",
+    "production_date": "08/11/2021"
+  },
+  {
+    "id": 16,
+    "category": "Vegetable",
+    "name": "Pork - Liver",
+    "price": "2.04",
+    "manufacturer": "Schimmel Inc",
+    "production_date": "15/04/2021"
+  },
+  {
+    "id": 17,
+    "category": "Vegetable",
+    "name": "Pepper - Black, Crushed",
+    "price": "1.41",
+    "manufacturer": "Schneider and Sons",
+    "production_date": "04/10/2021"
+  },
+  {
+    "id": 18,
+    "category": "Vegetable",
+    "name": "Veal - Inside",
+    "price": "2.28",
+    "manufacturer": "Rolfson-Zemlak",
+    "production_date": "02/03/2021"
+  },
+  {
+    "id": 19,
+    "category": "Vegetable",
+    "name": "Langers - Cranberry Cocktail",
+    "price": "3.67",
+    "manufacturer": "Auer-Gerhold",
+    "production_date": "19/05/2021"
+  },
+  {
+    "id": 20,
+    "category": "Protein",
+    "name": "Wine - Rubyport",
+    "price": "7.89",
+    "manufacturer": "Ernser-Jerde",
+    "production_date": "09/07/2021"
+  }
+]
